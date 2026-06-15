@@ -99,7 +99,7 @@ static const QString _allFeatures[] = {
     QLatin1String("img_output", 10),
     QLatin1String("screenshot", 10),
     QLatin1String("advanced_print", 14),
-    QLatin1String("doc_check", 9),
+    //QLatin1String("doc_check", 9),
     QLatin1String("mul_print", 9),
     QLatin1String("pdf_2doc_bypage", 15),
     QLatin1String("pdf_2et", 7),

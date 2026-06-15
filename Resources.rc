@@ -3,8 +3,8 @@
 ISOLATIONAWARE_MANIFEST_RESOURCE_ID RT_MANIFEST "Manifest.xml"
 
 1 VERSIONINFO
-FILEVERSION 1,0,1,0
-PRODUCTVERSION 1,0,1,0
+FILEVERSION 1,0,2,0
+PRODUCTVERSION 1,0,2,0
 FILEOS VOS_NT_WINDOWS32
 FILETYPE VFT_DLL
 BEGIN
@@ -13,10 +13,12 @@ BEGIN
         BLOCK "000004b0"
         BEGIN
             VALUE "FileDescription", "KIntranetAuthSdk"
-            VALUE "FileVersion", "1.0.1.0"
+            VALUE "FileVersion", "1.0.2.0"
             VALUE "ProductName", "KIntranetAuthSdk"
-            VALUE "ProductVersion", "1.0.1.0"
-            VALUE "CompanyName", "YukiIsait @ RainCandy Technology"
+            VALUE "ProductVersion", "1.0.2.0"
+            VALUE "CompanyName", "NixaVulpi"
+            VALUE "LegalCopyright", "Made with love by RainCandy Technology"
+            VALUE "OriginalFileName", "KIntranetAuthSdk.dll"
         END
     END
     BLOCK "VarFileInfo"
